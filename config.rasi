@@ -145,4 +145,4 @@ kb-row-down: "Down,Control+j,Control+n";
       sorting-method:    "name";
   }
 }
-@theme "/home/morris/.local/share/rofi/themes/squared-nord.rasi"
+@theme "/home/morris/.config/rofi/squared-nord.rasi"
