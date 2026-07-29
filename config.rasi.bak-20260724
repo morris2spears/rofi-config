@@ -145,11 +145,4 @@ kb-row-down: "Down,Control+j,Control+n";
       sorting-method:    "name";
   }
 }
-
-/* ctrl+a clears the search line; ctrl+shift+a jumps to start */
-configuration {
-  kb-move-front: "Control+Shift+a";
-  kb-clear-line: "Control+a,Control+w";
-}
-
 @theme "/home/morris/.config/rofi/squared-nord.rasi"
